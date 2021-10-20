@@ -15,6 +15,10 @@ pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
+improvedigital.com, 1972, RESELLER
+rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 23778, DIRECT, 0bfd66d529a55807
+pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
 
 FACEBOOK
 facebook.com, 669189850521393, DIRECT, c3e20eee3f780d68

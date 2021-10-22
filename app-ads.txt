@@ -1,6 +1,9 @@
 ADMOB
 google.com, pub-3255063538121143, DIRECT, f08c47fec0942fa0
 
+A4G
+google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
+
 REKLAMUP
 google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1972, RESELLER

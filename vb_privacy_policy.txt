@@ -1,4 +1,0 @@
-Permissions
-
-1. Control vibration
-Allows app to vibrate when equalizer values change.

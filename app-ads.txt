@@ -1,16 +1,13 @@
-ADMOB
+#ADMOB#
 google.com, pub-3255063538121143, DIRECT, f08c47fec0942fa0
 
-A4G
-google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
-
-TIKTOK
+#TIKTOK#
 pangleglobal.com, 5001074,DIRECT
 
-FACEBOOK
+#FACEBOOK#
 facebook.com, 730494308005821, DIRECT, c3e20eee3f780d68
 
-REKLAMUP
+#REKLAMUP#
 reklamup.com, 5179613410, DIRECT
 google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23780, DIRECT, 0bfd66d529a55807
@@ -23,10 +20,10 @@ indexexchange.com, 198783, RESELLER, 50b1c356f2c5c8fc
 smartadserver.com, 4313-OB, RESELLER, 060d053dcf45cbf3
 smartadserver, 4313, RESELLER
 
-FACEBOOK
+#FACEBOOK#
 facebook.com, 669189850521393, DIRECT, c3e20eee3f780d68
 
-UNITY
+#UNITY#
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
@@ -95,7 +92,7 @@ google.com, pub-6926478389814885, RESELLER
 telaria.com, rwd19-3342425, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-3342425, RESELLER, 1a4e959a1b50034a
 
-APPLOVIN
+#APPLOVIN#
 applovin.com, ef6577511661ea4828859e6e78213f81, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
@@ -106,7 +103,7 @@ pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
 
-IRONSOURCE
+#IRONSOURCE#
 ironsrc.com, [yourIronosurcePublisherAccountID], Direct
 Remember to replace [yourIronsourcePublisherAccountID] with your account ID, which you can get from your account manager.
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
@@ -164,7 +161,7 @@ video.unrulymedia.com, 3169196794, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 yieldlab.net, 2172218, RESELLER
 
-INMOBI
+#INMOBI#
 inmobi.com,109a694d015e43ef843809d3e44716f8,DIRECT,83e75a7ae333ca9d
 openx.com,540401713,RESELLER,6a698e2ec38604c6
 contextweb.com,560606,RESELLER,89ff185a4c4e857c
@@ -284,7 +281,7 @@ pubmatic.com,156439,RESELLER,5d62403b186f2ace
 pubmatic.com,156344,RESELLER,5d62403b186f2ace
 indexexchange.com,184738,RESELLER
 
-MINTEGRAL
+#MINTEGRAL#
 mintegral.com, 27519, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
@@ -563,3 +560,43 @@ smartadserver.com, 1692, RESELLER
 indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 video.unrulymedia.com, 3948367200, RESELLER
+
+#A4G#
+a4g.com,13838, DIRECT
+google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
+indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161218, RESELLER, 5d62403b186f2ace
+media.net, 8CULY277R, RESELLER
+sharethrough.com, Uc8GWHvM, DIRECT, d53b998a7bd4ecd2
+pubmatic.com, 156557, RESELLER
+pubmatic.com, 158723, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
+onetag.com, 77cc0899358027b, RESELLER
+onetag.com, 77cc0899358027b-OB, RESELLER
+appnexus.com, 13099, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+inmobi.com,cb6a6239dfec478f818c1ffca00ca440,DIRECT,83e75a7ae333ca9d
+engagebdr.com,16,RESELLER
+vidoomy.com,60653,RESELLER
+loopme.com,11414,RESELLER,6c8d5f95897a5a3b
+thebrave.io,1234568,RESELLER,c25b2154543746ac
+rubiconproject.com,20744,RESELLER,0bfd66d529a55807
+pubmatic.com,159035,RESELLER,5d62403b186f2ace
+verve.com,5897,RESELLER,0c8f5958fc2d6270
+spotx.tv,82068,RESELLER,7842df1d2fe2db34
+Peak226.com,12900,RESELLER
+pubmatic.com,160113,RESELLER,5d62403b186f2ace
+smartadserver.com,4071,RESELLER
+spotxchange.com,82068,RESELLER,7842df1d2fe2db34
+indexexchange.com,191332,RESELLER,50b1c356f2c5c8fc
+conversantmedia.com,100342,RESELLER,03113cd04947736d
+bidmachine.io,35,RESELLER
+advertising.com,28246,RESELLER
+axonix.com,57716,RESELLER
+gamaigroup.com,320201,RESELLER
+pubmatic.com,155975,RESELLER,5d62403b186f2ace
